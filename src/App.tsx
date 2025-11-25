@@ -214,7 +214,7 @@ const App: React.FC = () => {
               }`}
             >
               <img
-                src="https://i.ytimg.com/vi/03XF2XFfnvg/hq720.jpg?"
+                src="https://i.ytimg.com/vi/nNBISa5Znc0/hq720.jpg?"
                 alt="background glow"
                 className="w-[95%] h-[280px] object-cover blur-3xl opacity-40 rounded-xl scale-110"
               />
@@ -223,7 +223,7 @@ const App: React.FC = () => {
 
             <div className="relative rounded-xl overflow-hidden z-10">
               <img
-                src="https://i.ytimg.com/vi/03XF2XFfnvg/hq720.jpg?"
+                src="https://i.ytimg.com/vi/nNBISa5Znc0/hq720.jpg?"
                 alt="Love In World 2"
                 className={`w-full h-[240px] object-cover cursor-pointer transition-opacity duration-700 ${
                   isHeroLoaded ? "opacity-100" : "opacity-0"
